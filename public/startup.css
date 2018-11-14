@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: url("https://images.unsplash.com/photo-1415369629372-26f2fe60c467");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.main-content {
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100%;
+    text-transform: capitalize;
+}
+
+.container-div {
+    text-align:center;
+}
+.container-div hr {
+    color: white;
+}
